@@ -51,7 +51,7 @@
         "id": 7,
         "name": "Leicester City",
         "country": "England",
-        "logo":"https://apiv2.apifootball.com/badges/730_dandenong-city.png",
+        "logo":"https://apiv2.apifootball.com/badges/2611_leicester.png",
         "primary_color": "blue",
         "stadium": "King Power Stadium"
     },
@@ -59,7 +59,7 @@
         "id": 8,
         "name": "Everton",
         "country": "England",
-        "logo":"https://apiv2.apifootball.com/badges/9310_everton.png",
+        "logo":"https://apiv2.apifootball.com/badges/2612_everton.png",
         "primary_color": "blue",
         "stadium": "Goodison Park"
     },
@@ -67,7 +67,7 @@
         "id": 9,
         "name": "Wolverhampton Wanderers",
         "country": "England",
-        "logo":"https://apiv2.apifootball.com/badges/9308_iraq-u19.png",
+        "logo":"https://apiv2.apifootball.com/badges/17265_wolverhampton-w.png",
         "primary_color": "orange",
         "stadium": "Molineux Stadium"
     },
@@ -75,7 +75,7 @@
         "id": 10,
         "name": "West Ham United",
         "country": "England",
-        "logo":"https://apiv2.apifootball.com/badges/9308_iraq-u19.png",
+        "logo":"https://apiv2.apifootball.com/badges/2620_west-ham.png",
         "primary_color": "claret",
         "stadium": "London Stadium"
     }
