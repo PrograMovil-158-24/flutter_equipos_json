@@ -3,10 +3,24 @@ import 'dart:convert' as convert;
 import 'package:flutter/services.dart';
 import 'package:flutter_equipos_futbol/domain/equipos.dart';
 
+//Estructura de la clase
 class _EquiposReadFile{
-  static Future<List<Equipos>> getEquipos() async {
-    final _dataFile = await rootBundle.loadString('database/equipos_data.json');
-    List<dynamic> _equiposJson = convert.jsonDecode(_dataFile);
-    return _equiposJson.map((e) => Equipos.fromJson(e)).toList();
+  //CRUD
+
+  //READ
+  Future<List<Equipos>> getEquipos() async {
+    final _dataAssetBundle = await rootBundle.loadString('database/equipos_data.json');
+    List<dynamic> _equiposListJson = convert.jsonDecode(_dataAssetBundle);
+    return _equiposListJson.map((e) => Equipos.fromJson(e)).toList();
   }
+
+  //CREATE
+
+  //UPDATE
+
+  //DELETE
+
 }
+
+//Instancia de la clase
+final equiposReadFile = _EquiposReadFile();

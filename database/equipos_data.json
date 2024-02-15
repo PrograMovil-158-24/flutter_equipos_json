@@ -43,7 +43,7 @@
         "id": 6,
         "name": "Tottenham Hotspur",
         "country": "England",
-        "logo":"https://apiv2.apifootball.com/badges/2623_tottenham-hotspur.png",
+        "logo":"https://apiv2.apifootball.com/badges/2628_tottenham.png",
         "primary_color": "white",
         "stadium": "Tottenham Hotspur Stadium"
     },
@@ -51,7 +51,7 @@
         "id": 7,
         "name": "Leicester City",
         "country": "England",
-        "logo":"https://apiv2.apifootball.com/badges/2619_leicester-city.png",
+        "logo":"https://apiv2.apifootball.com/badges/730_dandenong-city.png",
         "primary_color": "blue",
         "stadium": "King Power Stadium"
     },
@@ -59,7 +59,7 @@
         "id": 8,
         "name": "Everton",
         "country": "England",
-        "logo":"https://apiv2.apifootball.com/badges/2620_everton.png",
+        "logo":"https://apiv2.apifootball.com/badges/9310_everton.png",
         "primary_color": "blue",
         "stadium": "Goodison Park"
     },
@@ -67,7 +67,7 @@
         "id": 9,
         "name": "Wolverhampton Wanderers",
         "country": "England",
-        "logo":"https://apiv2.apifootball.com/badges/2625_wolverhampton-wanderers.png",
+        "logo":"https://apiv2.apifootball.com/badges/9308_iraq-u19.png",
         "primary_color": "orange",
         "stadium": "Molineux Stadium"
     },
@@ -75,7 +75,7 @@
         "id": 10,
         "name": "West Ham United",
         "country": "England",
-        "logo":"https://apiv2.apifootball.com/badges/2624_west-ham-united.png",
+        "logo":"https://apiv2.apifootball.com/badges/9308_iraq-u19.png",
         "primary_color": "claret",
         "stadium": "London Stadium"
     }
